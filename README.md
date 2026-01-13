@@ -1,5 +1,5 @@
 ## 💫 About Me:
-### Hi There, I'm Abir Mahmud! 👋<br><br>A Passionate **Full Stack Developer** Specializing in The React & Node.js Ecosystem. I Build Scalable Web and Moile Applications With a Focus on Seamless User Experiences.
+### Hi There, I'm Abir Mahmud! 👋<br><br>A Passionate **Full Stack Developer** Specializing in The React & Node.js Ecosystem. I Build Scalable Web and Mobile Applications With a Focus on Seamless User Experiences.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abir2mahmud) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abir2mahmud) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abir1mahmud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abir2mahmud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@abir2mahmud) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abir2mahmud) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@abirmahmud.com) 
